@@ -10,6 +10,5 @@ $300K+
 6 Beds 4 master suites guest home 2 acres with small farming
 ## Life goals: 
 Peace of mind great health, freedom, longevity & success, fluency in multiple languages
-\n![]
-(./img.jpg)
-\n![](./img.jpg)
+
+![](./img.jpg)
